@@ -1,7 +1,12 @@
-### Hi there 👋
+
+
+               
+![Spongebob Hit Discor d Banner](https://github.com/Bradawan/Bradawan/assets/101075705/6da26f67-170e-496a-9bd0-e7855fbd6b46)
+
 
 <!--
-**Bradawan/Bradawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bradawan/Bradawan** is a ✨ _s
+pecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
